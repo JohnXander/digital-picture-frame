@@ -1,0 +1,14 @@
+{
+    "pictures": [
+        {
+            "picture": "./img/cots1.jpg",
+            "location": "The Cotswolds, UK",
+            "date": "October 2020"
+        },
+        {
+            "picture": "./img/cots2.jpg",
+            "location": "The Cotswolds, UK",
+            "date": "September 2020"
+        }
+    ]
+}
