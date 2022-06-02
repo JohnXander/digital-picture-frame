@@ -159,6 +159,96 @@
             "picture": "./img/croatia9.jpg",
             "location": "📍 Split, Croatia",
             "date": "⌛ November 2021"
+        },
+        {
+            "picture": "./img/italy1.jpg",
+            "location": "📍 Rome, Italy",
+            "date": "⌛ August 2021"
+        },
+        {
+            "picture": "./img/italy2.jpg",
+            "location": "📍 Florence, Italy",
+            "date": "⌛ August 2021"
+        },
+        {
+            "picture": "./img/italy3.jpg",
+            "location": "📍 Florence, Italy",
+            "date": "⌛ August 2021"
+        },
+        {
+            "picture": "./img/italy4.jpg",
+            "location": "📍 Osimo, Italy",
+            "date": "⌛ August 2021"
+        },
+        {
+            "picture": "./img/italy5.jpg",
+            "location": "📍 Perugia, Italy",
+            "date": "⌛ September 2021"
+        },
+        {
+            "picture": "./img/italy6.jpg",
+            "location": "📍 Perugia, Italy",
+            "date": "⌛ September 2021"
+        },
+        {
+            "picture": "./img/italy7.jpg",
+            "location": "📍 Rome, Italy",
+            "date": "⌛ August 2021"
+        },
+        {
+            "picture": "./img/italy8.jpg",
+            "location": "📍 Perugia, Italy",
+            "date": "⌛ August 2021"
+        },
+        {
+            "picture": "./img/italy9.jpg",
+            "location": "📍 Perugia, Italy",
+            "date": "⌛ August 2021"
+        },
+        {
+            "picture": "./img/dubai1.jpg",
+            "location": "📍 Dubai, UAE",
+            "date": "⌛ August 2021"
+        },
+        {
+            "picture": "./img/dubai2.jpg",
+            "location": "📍 Dubai, UAE",
+            "date": "⌛ August 2021"
+        },
+        {
+            "picture": "./img/dubai3.jpg",
+            "location": "📍 Dubai, UAE",
+            "date": "⌛ July 2021"
+        },
+        {
+            "picture": "./img/dubai4.jpg",
+            "location": "📍 Dubai, UAE",
+            "date": "⌛ July 2021"
+        },
+        {
+            "picture": "./img/dubai5.jpg",
+            "location": "📍 Dubai, UAE",
+            "date": "⌛ July 2021"
+        },
+        {
+            "picture": "./img/dubai6.jpg",
+            "location": "📍 Dubai, UAE",
+            "date": "⌛ June 2021"
+        },
+        {
+            "picture": "./img/dubai7.jpg",
+            "location": "📍 Dubai, UAE",
+            "date": "⌛ July 2021"
+        },
+        {
+            "picture": "./img/dubai8.jpg",
+            "location": "📍 Dubai, UAE",
+            "date": "⌛ July 2021"
+        },
+        {
+            "picture": "./img/dubai9.jpg",
+            "location": "📍 Dubai, UAE",
+            "date": "⌛ July 2021"
         }
     ]
 }
