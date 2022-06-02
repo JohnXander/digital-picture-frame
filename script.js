@@ -29,6 +29,7 @@ plusBtn.addEventListener("click", () => {
         userSpeed++
         speedDisplay.innerHTML = userSpeed
         start.innerHTML = "Resume"
+        start.classList.remove("unclickable")
         clearInterval(interval)
     }
 })
@@ -39,6 +40,7 @@ minusBtn.addEventListener("click", () => {
         userSpeed--
         speedDisplay.innerHTML = userSpeed
         start.innerHTML = "Resume"
+        start.classList.remove("unclickable")
         clearInterval(interval)
     }
 })
@@ -46,4 +48,5 @@ minusBtn.addEventListener("click", () => {
 start.addEventListener("click", () => {
     interval = setInterval(getPictures, jsSpeed)
     start.innerHTML = "In progress..."
+    start.classList.add("unclickable")
 })
