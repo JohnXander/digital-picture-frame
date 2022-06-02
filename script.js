@@ -3,8 +3,8 @@ const imgPicture = document.getElementById("image")
 const imgDate = document.getElementById("date")
 const plusBtn = document.getElementById("plusBtn")
 const minusBtn = document.getElementById("minusBtn")
+const startBtn = document.getElementById("startBtn")
 const speedDisplay = document.getElementById("speedDisplay")
-const start = document.getElementById("start")
 
 let jsSpeed = 3000
 let userSpeed = 5
@@ -19,7 +19,6 @@ const getPictures = () => {
             imgPicture.src = data.pictures[randomIdx].picture
             imgPicture.alt = data.pictures[randomIdx].location
             imgDate.innerHTML = data.pictures[randomIdx].date
-            console.log("called", jsSpeed)
         })
 }
 
@@ -28,8 +27,8 @@ plusBtn.addEventListener("click", () => {
         jsSpeed -= 500
         userSpeed++
         speedDisplay.innerHTML = userSpeed
-        start.innerHTML = "Resume"
-        start.classList.remove("unclickable")
+        startBtn.innerHTML = "Resume"
+        startBtn.classList.remove("unclickable")
         clearInterval(interval)
     }
 })
@@ -39,14 +38,14 @@ minusBtn.addEventListener("click", () => {
         jsSpeed += 500
         userSpeed--
         speedDisplay.innerHTML = userSpeed
-        start.innerHTML = "Resume"
-        start.classList.remove("unclickable")
+        startBtn.innerHTML = "Resume"
+        startBtn.classList.remove("unclickable")
         clearInterval(interval)
     }
 })
 
-start.addEventListener("click", () => {
+startBtn.addEventListener("click", () => {
     interval = setInterval(getPictures, jsSpeed)
-    start.innerHTML = "In progress..."
-    start.classList.add("unclickable")
+    startBtn.innerHTML = "In progress..."
+    startBtn.classList.add("unclickable")
 })

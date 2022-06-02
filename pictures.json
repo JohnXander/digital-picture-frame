@@ -11,6 +11,41 @@
             "date": "⌛ September 2020"
         },
         {
+            "picture": "./img/uk3.jpg",
+            "location": "📍 The Cotswolds, UK",
+            "date": "⌛ September 2020"
+        },
+        {
+            "picture": "./img/uk4.jpg",
+            "location": "📍 The Cotswolds, UK",
+            "date": "⌛ October 2020"
+        },
+        {
+            "picture": "./img/uk5.jpg",
+            "location": "📍 The Cotswolds, UK",
+            "date": "⌛ October 2020"
+        },
+        {
+            "picture": "./img/uk6.jpg",
+            "location": "📍 The Cotswolds, UK",
+            "date": "⌛ June 2021"
+        },
+        {
+            "picture": "./img/uk7.jpg",
+            "location": "📍 Brighton, UK",
+            "date": "⌛ September 2021"
+        },
+        {
+            "picture": "./img/uk8.jpg",
+            "location": "📍 Cambridge, UK",
+            "date": "⌛ October 2021"
+        },
+        {
+            "picture": "./img/uk9.jpg",
+            "location": "📍 The Cotswolds, UK",
+            "date": "⌛ December 2021"
+        },
+        {
             "picture": "./img/greece1.jpg",
             "location": "📍 Zakynthos, Greece",
             "date": "⌛ January 2022"
