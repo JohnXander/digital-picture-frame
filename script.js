@@ -3,8 +3,7 @@ const imgPicture = document.getElementById("image")
 const imgDate = document.getElementById("date")
 const plusBtn = document.getElementById("plusBtn")
 const minusBtn = document.getElementById("minusBtn")
-const speedDisplay = document.getElementById("speed")
-
+const speedDisplay = document.getElementById("speedDisplay")
 const start = document.getElementById("start")
 
 let jsSpeed = 3000
@@ -48,9 +47,3 @@ start.addEventListener("click", () => {
     interval = setInterval(getPictures, jsSpeed)
     start.innerHTML = "In progress..."
 })
-
-
-
-
-
-

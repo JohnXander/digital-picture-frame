@@ -54,6 +54,111 @@
             "picture": "./img/greece9.jpg",
             "location": "📍 Santorini, Greece",
             "date": "⌛ February 2022"
+        },
+        {
+            "picture": "./img/morocco1.jpg",
+            "location": "📍 Marrakesh, Morocco",
+            "date": "⌛ April 2022"
+        },
+        {
+            "picture": "./img/morocco2.jpg",
+            "location": "📍 Taghazout, Morocco",
+            "date": "⌛ May 2022"
+        },
+        {
+            "picture": "./img/morocco3.jpg",
+            "location": "📍 Marrakesh, Morocco",
+            "date": "⌛ May 2022"
+        },
+        {
+            "picture": "./img/morocco4.jpg",
+            "location": "📍 Marrakesh, Morocco",
+            "date": "⌛ May 2022"
+        },
+        {
+            "picture": "./img/morocco5.jpg",
+            "location": "📍 Casablanca, Morocco",
+            "date": "⌛ April 2022"
+        },
+        {
+            "picture": "./img/morocco6.jpg",
+            "location": "📍 Ourika, Morocco",
+            "date": "⌛ April 2022"
+        },
+        {
+            "picture": "./img/morocco7.jpg",
+            "location": "📍 Marrakesh, Morocco",
+            "date": "⌛ April 2022"
+        },
+        {
+            "picture": "./img/morocco8.jpg",
+            "location": "📍 Marrakesh, Morocco",
+            "date": "⌛ April 2022"
+        },
+        {
+            "picture": "./img/morocco9.jpg",
+            "location": "📍 Taghazout, Morocco",
+            "date": "⌛ May 2022"
+        },
+        {
+            "picture": "./img/spain1.jpg",
+            "location": "📍 Tenerife, Spain",
+            "date": "⌛ May 2022"
+        },
+        {
+            "picture": "./img/spain2.jpg",
+            "location": "📍 Tenerife, Spain",
+            "date": "⌛ May 2022"
+        },
+        {
+            "picture": "./img/spain3.jpg",
+            "location": "📍 Tenerife, Spain",
+            "date": "⌛ May 2022"
+        },
+        {
+            "picture": "./img/croatia1.jpg",
+            "location": "📍 Hvar, Croatia",
+            "date": "⌛ November 2021"
+        },
+        {
+            "picture": "./img/croatia2.jpg",
+            "location": "📍 Korcula, Croatia",
+            "date": "⌛ December 2021"
+        },
+        {
+            "picture": "./img/croatia3.jpg",
+            "location": "📍 Dubrovnik, Croatia",
+            "date": "⌛ December 2021"
+        },
+        {
+            "picture": "./img/croatia4.jpg",
+            "location": "📍 Dubrovnik, Croatia",
+            "date": "⌛ December 2021"
+        },
+        {
+            "picture": "./img/croatia5.jpg",
+            "location": "📍 Dubrovnik, Croatia",
+            "date": "⌛ December 2021"
+        },
+        {
+            "picture": "./img/croatia6.jpg",
+            "location": "📍 Zagreb, Croatia",
+            "date": "⌛ December 2021"
+        },
+        {
+            "picture": "./img/croatia7.jpg",
+            "location": "📍 Split, Croatia",
+            "date": "⌛ December 2021"
+        },
+        {
+            "picture": "./img/croatia8.jpg",
+            "location": "📍 Split, Croatia",
+            "date": "⌛ November 2021"
+        },
+        {
+            "picture": "./img/croatia9.jpg",
+            "location": "📍 Split, Croatia",
+            "date": "⌛ November 2021"
         }
     ]
 }
