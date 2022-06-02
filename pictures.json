@@ -1,14 +1,59 @@
 {
     "pictures": [
         {
-            "picture": "./img/cots1.jpg",
-            "location": "The Cotswolds, UK",
-            "date": "October 2020"
+            "picture": "./img/uk1.jpg",
+            "location": "📍 The Cotswolds, UK",
+            "date": "⌛ October 2020"
         },
         {
-            "picture": "./img/cots2.jpg",
-            "location": "The Cotswolds, UK",
-            "date": "September 2020"
+            "picture": "./img/uk2.jpg",
+            "location": "📍 The Cotswolds, UK",
+            "date": "⌛ September 2020"
+        },
+        {
+            "picture": "./img/greece1.jpg",
+            "location": "📍 Zakynthos, Greece",
+            "date": "⌛ January 2022"
+        },
+        {
+            "picture": "./img/greece2.jpg",
+            "location": "📍 Zakynthos, Greece",
+            "date": "⌛ January 2022"
+        },
+        {
+            "picture": "./img/greece3.jpg",
+            "location": "📍 Zakynthos, Greece",
+            "date": "⌛ January 2022"
+        },
+        {
+            "picture": "./img/greece4.jpg",
+            "location": "📍 Kefalonia, Greece",
+            "date": "⌛ January 2022"
+        },
+        {
+            "picture": "./img/greece5.jpg",
+            "location": "📍 Zakynthos, Greece",
+            "date": "⌛ January 2022"
+        },
+        {
+            "picture": "./img/greece6.jpg",
+            "location": "📍 Santorini, Greece",
+            "date": "⌛ February 2022"
+        },
+        {
+            "picture": "./img/greece7.jpg",
+            "location": "📍 Santorini, Greece",
+            "date": "⌛ February 2022"
+        },
+        {
+            "picture": "./img/greece8.jpg",
+            "location": "📍 Santorini, Greece",
+            "date": "⌛ February 2022"
+        },
+        {
+            "picture": "./img/greece9.jpg",
+            "location": "📍 Santorini, Greece",
+            "date": "⌛ February 2022"
         }
     ]
 }

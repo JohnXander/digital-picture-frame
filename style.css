@@ -13,7 +13,7 @@ body {
     min-height: 100vh;
 }
 
-.image-container {
+.img-container {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -34,7 +34,7 @@ img {
 
 }
 
-.image-details{
+.info-container{
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -46,3 +46,5 @@ img {
 p {
     margin: 0;
 }
+
+
